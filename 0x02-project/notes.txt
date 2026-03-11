@@ -1,0 +1,2 @@
+Notes for WinMingle Software Engineering Training.
+This directory contains notes and practice related to Git projects and repository management.
